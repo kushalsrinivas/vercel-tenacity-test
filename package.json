@@ -66,5 +66,9 @@
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
     "url": "^0.11.1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/kushalsrinivas/vercel-tenacity-test.git",
+  "author": "kushalsrinivas <kushal.s.2005@gmail.com>",
+  "license": "MIT"
 }
